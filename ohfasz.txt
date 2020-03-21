@@ -1,3 +1,8 @@
- hello world
+def penis(hello):
+	hello = 5
+	hello = 10
+	return hello
 
-penis power oh yeay
+def vegetable(green):
+	green *= 5
+	return abs(green)
