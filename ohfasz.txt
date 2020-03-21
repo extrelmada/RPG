@@ -1,7 +1,7 @@
-def penis(hello):
-	hello = 5
+def fasz(hello):
+	hello = 123
 	hello = 10
-	return hello
+	return 12
 
 def vegetable(green):
 	green *= 5
